@@ -1,0 +1,11 @@
+Understanding Code Editor
+List of famous code editor
+Vim Editor for command line Geeks
+Sublime Text a modern Editor
+Notepad ++ handy Editor. 
+ Version Control System
+Create GITHUB Account
+Setup GIT on your system.
+GIT command line tools
+Pushing your first code to GITHUB repository 
+Sharing your code with friends
